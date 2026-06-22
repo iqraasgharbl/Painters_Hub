@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paintershub.it.com/sitemap.xml
